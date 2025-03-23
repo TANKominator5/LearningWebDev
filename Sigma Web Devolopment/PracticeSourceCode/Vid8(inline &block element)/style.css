@@ -3,5 +3,13 @@ p{
 }
 
 a{
-    background-color: brown;
+    background-color: rgb(225, 135, 135);
+}
+
+div{
+    background-color: yellow;
+}
+
+span{
+    background-color: rgb(157, 105, 205);
 }
